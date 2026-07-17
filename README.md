@@ -1,4 +1,5 @@
-Code for the paper "Nonlinear higher-order adaptation inhibits explosive transitions in spreading dynamics"
+Code for the paper "Inhibition of explosive transitions in spreading dynamics by nonlinear higher-order adaptation"
+DOI: https://link.aps.org/doi/10.1103/5vff-syxb
 
 Contents include:
 
